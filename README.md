@@ -13,3 +13,4 @@ POC of Vivaldi Renderer using Next.JS.
   "heading": [string],
 }
 ```
+[Example request](http://localhost:3000/article?data=%7B%22heading%22%3A%22Hello+World%21%22%2C%22title%22%3A%22Title+-+Hello+World%21%22%7D).
